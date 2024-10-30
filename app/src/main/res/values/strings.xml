@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Travelocity</string>
+    <string name="welcome_to_travelocity">Welcome to Travelocity,\n Travel The world with us</string>
+    <string name="make_your_adventures_with_us_and_make_new_experiencies">Make your adventures with us \n and make new experiencies</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="john_smith">John Smith</string>
+    <string name="food">Trav</string>
+    <string name="app">Locity</string>
+    <string name="discover">Discover the Best Place\n to Travel</string>
+    <string name="search">Search</string>
+    <string name="welcome_nback">Welcome\nBack</string>
+    <string name="search_destination">Search destination</string>
+    <string name="see_all">See all</string>
+    <string name="categories">Categories</string>
+    <string name="email_address">Email Address</string>
+    <string name="pass">Password</string>
+    <string name="or">OR</string>
+    <string name="you_aren">You aren\'t a member?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="member_login">Are you member? Login</string>
+    <string name="are_you_member_login">Are you member? Login</string>
+    <string name="add_destination">Add Destination</string>
+    <string name="description">Description....</string>
+    <string name="title">Title</string>
+    <string name="location">Location</string>
+    <string name="no_of_beds">No of Beds</string>
+    <string name="price_usd">Price USD</string>
+    <string name="has_guide">Has Guide</string>
+    <string name="has_wifi">Has Wifi</string>
+    <string name="select_category">Select category</string>
+    <string name="select_image">Select Image</string>
+    <string name="create_tour">Create Tour</string>
+</resources>

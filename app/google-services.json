@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191020815636",
+    "project_id": "travelocity-66d89",
+    "storage_bucket": "travelocity-66d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191020815636:android:503c02ba014c7b407a5e01",
+        "android_client_info": {
+          "package_name": "com.example.travelocity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ptGlFE_f_vybmp-x96rkyG9NqRPrsc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

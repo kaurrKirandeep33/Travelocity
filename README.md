@@ -1,0 +1,2 @@
+Travelocity Tour Management App
+The Travelocity Tour Management App is an Android application designed to streamline tour management for travel agency admins. Using Firebase services, this app allows admins to create, manage, and organize tour information efficiently, while maintaining a secure environment for user authentication and data storage. The app supports Firebase Authentication, Firebase Realtime Database, and Firebase Storage to ensure a robust and reliable backend for managing tours and their details.
